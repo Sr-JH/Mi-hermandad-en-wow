@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(3, 3, 2, 0.966);
+text-align: center;
+font-weight: bold;
+text-align: center;
+
+}
+
+h1{
+   margin-left: 10%;
+   margin-right: 10%;
+    font-size: 30px;   
+background-color: rgb(12, 12, 12);
+border: 6px solid white;
+color: white;
+border-radius: 10px;
+}
+/* guia para pve */
+h2{
+    color: white;
+    margin-left: 20%;
+   margin-right: 20%;
+    font-size: 30px;   
+background-color: rgb(12, 12, 12);
+border: 6px solid white;
+color: white;
+border-radius: 10px;
+}
+h2:hover{
+    background-color: white;
+    color: black;
+    border: black;
+   
+}
+a{
+    text-decoration-line: none;
+}
+
+h3{
+    
+    background-color: rgb(15, 15, 15);
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 3px dashed ;
+    color:white
+}
+h3:hover{
+    color: green;
+    
+}
+
+p{
+    color: rgb(42, 59, 42);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h5{
+    background-color: rgb(83, 25, 25);
+    color: white;
+    border-radius: 66px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: 2px solid rgb(93, 202, 93);
+     
+}
